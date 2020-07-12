@@ -66,6 +66,7 @@
             "skillCategoryValues": [
                 { "name": "Node.js", "percentage": "90%" },
                 { "name": "Express.js", "percentage": "90%" },
+                { "name": "JWT", "percentage": "80%" },
                 { "name": "C# .NET", "percentage": "85%" },
                 { "name": "VB .NET", "percentage": "75%" },
                 { "name": "PHP", "percentage": "65%" },
@@ -76,6 +77,20 @@
                 { "name": "chain.js", "percentage": "75%" },
                 { "name": "T-SQL", "percentage": "75%" },
                 { "name": "PL-SQL", "percentage": "65%" }
+            ]
+        },
+        {
+            "skillCategoryName": "Front-End",
+            "skillCategoryValues": [
+                { "name": "Html5", "percentage": "90%" },
+                { "name": "CSS3", "percentage": "90%" },
+                { "name": "React.js", "percentage": "80%" },
+                { "name": "JQuery", "percentage": "90%" },
+                { "name": "ASP.NET", "percentage": "90%" },
+                { "name": "Bootstrap 3+", "percentage": "90%" },
+                { "name": "D3.JS", "percentage": "70%" },
+                { "name": "ethers.js", "percentage": "85%" },
+                { "name": "web3.js", "percentage": "85%" }
             ]
         },
         {
@@ -112,10 +127,12 @@
             ]
         },
         {
-            "skillCategoryName": "Blockchain",
+            "skillCategoryName": "Blockchain & Tools",
             "skillCategoryValues": [
                 { "name": "Ethereum", "percentage": "85%" },
-                { "name": "Quorum", "percentage": "85%" }
+                { "name": "Quorum", "percentage": "85%" },
+                { "name": "Metamask", "percentage": "95%" },
+                { "name": "Infura", "percentage": "90%" }
             ]
         }
     ],
