@@ -10,7 +10,7 @@ import Experience from "../components/Experience";
 import Certificates from "../components/Certificates";
 import Skills from "../components/Skills";
 import Loader from "../components/Loader";
-const API = "https://raw.githubusercontent.com/madelacruzs/my-resume/master/data/me.json";
+const API = "https://raw.githubusercontent.com/madelacruzs/my-resume-ipfs/master/data/me.json";
 
 const GlobalStyle = createGlobalStyle`
   body {

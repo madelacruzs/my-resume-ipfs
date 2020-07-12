@@ -1,0 +1,128 @@
+{
+    "address": "Vancouver, Canada.",
+    "avatar": "https://ipfs.io/ipfs/QmVGGt2uqEto4RgF2MzhFqYV4uLZamthGCM7MQfvGfB1gY",
+    "bio": "Full Stack Engineer with strong knowledge in JavaScript/Node.js, .NET, C# and SharePoint. Skilled in developing business plans, requirements specifications, user documentation, and technical specifications. Currently involved with projects in blockchain creating smart contracts in solidity of Ethereum. ",
+    "certificate": [
+        {
+            "date": "May 2019",
+            "description": "Ethereum Developer Course ",
+            "institution": "B9lab Academy",
+            "name": "Ethereum Developer Course"
+        },
+        {
+            "date": "Mar 2018",
+            "description": "Ethereum Developer: Build A Decentralized Blockchain App",
+            "institution": "Udemy",
+            "name": "Ethereum Developer: Build A Decentralized Blockchain App"
+        },
+        {
+            "date": "Jul 2017",
+            "description": "Blockchain Development: Learn to Build a dApp with Solidity",
+            "institution": "Udemy",
+            "name": "Blockchain Development: Learn to Build a dApp with Solidity"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor in Computer Science",
+            "description": " ",
+            "endDate": "Jan 2008",
+            "institution": "Institute Technology of Tantoyuca, Veracruz Mexico.",
+            "startDate": "Jan 2003"
+        }
+    ],
+    "experience": [
+        {
+            "company": "AEGIS Chain (Monterrey, Mex. Remote)",
+            "endDate": "Present",
+            "jobDescription": "Design of the backend application, selection of stack technologies and database as well as integration with Front-End and blockchain.",
+            "jobTitle": "Full Stack Engineer",
+            "startDate": "Dec 2018"
+        },
+        {
+            "company": "NEORIS",
+            "endDate": "Jun 2019",
+            "jobDescription": "Design, development and documentation of POC in Blockchain for internal projects in the area of Innovation Labs that can later become products of the company.",
+            "jobTitle": "Full Stack Smart Contract Developer ",
+            "startDate": "Jan 2018"
+        }
+    ],
+    "name": "Miguel De La Cruz",
+    "profession": "Full Stack Engineer",
+    "skills": [
+        {
+            "skillCategoryName": "Programming languages",
+            "skillCategoryValues": [
+                { "name": "JavaScript", "percentage": "90%" },
+                { "name": "C#", "percentage": "85%" },
+                { "name": "VB", "percentage": "75%" },
+                { "name": "C++", "percentage": "50%" },
+                { "name": "Power Shell", "percentage": "66%" },
+                { "name": "Solidity", "percentage": "75%" }
+            ]
+        },
+        {
+            "skillCategoryName": "Back-End",
+            "skillCategoryValues": [
+                { "name": "Node.js", "percentage": "90%" },
+                { "name": "Express.js", "percentage": "90%" },
+                { "name": "C# .NET", "percentage": "85%" },
+                { "name": "VB .NET", "percentage": "75%" },
+                { "name": "PHP", "percentage": "65%" },
+                { "name": "Solidity", "percentage": "75%" },
+                { "name": "ethers.js", "percentage": "85%" },
+                { "name": "web3.js", "percentage": "85%" },
+                { "name": "mocha", "percentage": "75%" },
+                { "name": "chain.js", "percentage": "75%" },
+                { "name": "T-SQL", "percentage": "75%" },
+                { "name": "PL-SQL", "percentage": "65%" }
+            ]
+        },
+        {
+            "skillCategoryName": "Databases",
+            "skillCategoryValues": [
+                { "name": "Mongo DB", "percentage": "80%" },
+                { "name": "PostgreSQL", "percentage": "70%" },
+                { "name": "Oracle", "percentage": "75%" },
+                { "name": "MSSQL", "percentage": "90%" },
+                { "name": "MySQL", "percentage": "65%" }
+            ]
+        },
+        {
+            "skillCategoryName": "Development Methods",
+            "skillCategoryValues": [
+                { "name": "Scrum", "percentage": "85%" },
+                { "name": "Agile Development Methodologies", "percentage": "85%" },
+                { "name": "Test Driven Development (TDD)", "percentage": "80%" },
+                { "name": "Waterfall", "percentage": "80%" }
+            ]
+        },
+        {
+            "skillCategoryName": "DevOps",
+            "skillCategoryValues": [
+                { "name": "AWS Bucket S3", "percentage": "85%" },
+                { "name": "AWS Elastic Beanstalk", "percentage": "85%" },
+                { "name": "Heroku", "percentage": "85%" },
+                { "name": "Git", "percentage": "90%" },
+                { "name": "GitHub", "percentage": "90%" },
+                { "name": "SharePoint", "percentage": "95%" },
+                { "name": "IPFS", "percentage": "90%" },
+                { "name": "Pinata Cloud", "percentage": "90%" },
+                { "name": "Textile", "percentage": "90%" }
+            ]
+        },
+        {
+            "skillCategoryName": "Blockchain",
+            "skillCategoryValues": [
+                { "name": "Ethereum", "percentage": "85%" },
+                { "name": "Quorum", "percentage": "85%" }
+            ]
+        }
+    ],
+    "social": [
+        { "name": "facebook", "url": "https://www.facebook.com/BlockchainMonterrey/" },
+        { "name": "twitter", "url": "https://twitter.com/madelacruzs_" },
+        { "name": "github", "url": "https://github.com/madelacruzs" },
+        { "name": "linkedin", "url": "https://www.linkedin.com/in/migueldelacruzsantiago/" }
+    ]
+}
